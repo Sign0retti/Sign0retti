@@ -3,7 +3,6 @@ _________________________________________
 
 📚 Formado em Análise e Desenvolvimento de Sistemas pela Fundação Santo André e universitário da PUC Minas cursando Pós Graduação em Engenharia de Software <br/>
 ⚙️ Trabalhei como Estagiário em Suporte Técnico e atualmente sou Analista de Implantação Pleno <br/>
-⏳ Busco por uma oportunidade como Desenvolvedor Backend Jr.
 
 __________________________________________
 
